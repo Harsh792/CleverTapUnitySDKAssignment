@@ -1,0 +1,12 @@
+{
+  "name": "com.harsh.toastlib",
+  "displayName": "Toast / Snackbar Unity SDK",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "Cross-platform Toast SDK for Unity",
+    "author": {
+        "name": "Harsh Bishnoi",
+        "email": "harshvishnoi792@gmail.com"
+
+    }
+}

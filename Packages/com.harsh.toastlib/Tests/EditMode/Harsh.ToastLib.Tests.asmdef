@@ -1,0 +1,11 @@
+{
+  "name": "Harsh.ToastLib.Tests",
+  "references": [
+    "Harsh.ToastLib.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": []
+}
