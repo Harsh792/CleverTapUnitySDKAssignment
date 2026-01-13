@@ -1,3 +1,4 @@
+# Unity folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,4 +6,23 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
-Assets/Recovery/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity generated
+*.unityproj
+*.suo
+*.tmp
+*.utmp
+
+# OS files
+.DS_Store
+Thumbs.db
