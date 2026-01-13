@@ -10,6 +10,7 @@ UserSettings/
 # Visual Studio / Rider
 .vs/
 .vscode/
+.vsconfig
 *.csproj
 *.sln
 *.user
